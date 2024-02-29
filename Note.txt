@@ -1,0 +1,29 @@
+- Công việc thực hiện ngày T2, 26/02/2024:
+1.2 Git basic: Common command, git flow	
+OpenCV	
+2.1 Core	
+	Introduce Open CV
+	Basic Operations on Images
+	Arithmetic Operations on Images
+	Performance Measurement and Improvement Techniques
+	Mathematical Tools in OpenCV
+2.2 Image Processing in OpenCV	
+	Changing Colorspaces
+	Geometric Transformations of Images
+	Image Thresholding
+	Smoothing Images
+	Image Gradients
+	Canny Edge Detection
+
+- Công việc thực hiện ngày T5, 29/02/2024:
+2.2 Image Processing in OpenCV	
+	Contours in OpenCV
+	Histograms in OpenCV
+	Template Matching
+	Hough Line Transform, Circle Transform ...
+	Image Segmentation
+	Image Denoising
+	Image Inpainting
+2.3 Feature Detection and Description	
+	Understanding Features
+	Feature Matching + Homography to find Objects
