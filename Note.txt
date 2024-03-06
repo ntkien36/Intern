@@ -45,3 +45,19 @@ OpenCV
 2.4 Video Analysis	
 	Optical Flow
 	Background Subtraction
+
+- Công việc đã thực hiện ngày T6, 01/03/2024:
+	Image Segmentation
+	Image Denoising
+	Image Inpainting
+2.3 Feature Detection and Description	
+	Understanding Features
+	Feature Matching + Homography to find Objects
+- Công việc dự kiến thực hiện ngày T3, 05/03/2024:
+2.4 Video Analysis	
+	Optical Flow
+	Background Subtraction
+- Công việc đã thực hiện ngày T3, 05/03/2024:
+2.4 Video Analysis	
+	Optical Flow
+	Background Subtraction
